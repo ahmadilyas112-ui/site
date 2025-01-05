@@ -153,7 +153,6 @@ header ul li a:hover {
     overflow: hidden;
     transition: transform 0.3s, box-shadow 0.3s;
     display: flex;
-    flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center align all items */
     justify-content: space-between; /* Distribute space evenly */
     height: 350px; /* Fixed height for uniformity */
