@@ -590,7 +590,10 @@ footer ul li a:hover {
     }*/
 
     .banner{
-        margin: 0 0 0 0;
+        margin: -61px 0 0 0;
+    }
+    .slide .content {
+    margin-top: 0px;
     }
      .slide .content h1 {
         font-size: 1.5rem;
