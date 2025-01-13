@@ -114,6 +114,7 @@ header ul li a:hover {
 }   
 
 .slide .content {
+    margin-top: -350px;
     text-align: center;
     color: white;
     z-index: 1;  padding: 20px;
